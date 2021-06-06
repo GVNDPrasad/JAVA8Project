@@ -1,4 +1,4 @@
-package com.java8.le.fi.defaultblock.staticblock;
+package com.java8.le.fi.staticblock;
 
 @FunctionalInterface
 public interface InterStat {

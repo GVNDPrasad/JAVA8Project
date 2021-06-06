@@ -1,4 +1,4 @@
-package com.java8.le.fi.defaultblock.staticblock;
+package com.java8.le.fi.staticblock;
 
 //Without implements Interface able to access FI static block
 public class InterStatImpl2{
